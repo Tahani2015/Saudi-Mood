@@ -40,6 +40,6 @@ responses and collected their words in the dataset. We also used the Almaany Ara
 	T. Almanie, A. Aldayel, G. Alkanhal, L. Alesmail, M. Almutlaq and R. Althunayan, "Saudi Mood: A Real-Time Informative Tool for Visualizing Emotions in Saudi Arabia Using Twitter", 21st Saudi Computer Society National Computer Conference (NCC), 2018. 
 
 ## Contact:
- 	If you need to get in touch with us: Talmanie@ksu.edu.sa
+ 	If you need to get in touch with us: Talmanie@ksu.edu.sa or Alanoud.s.aldayel@outlook.com
  
 	
