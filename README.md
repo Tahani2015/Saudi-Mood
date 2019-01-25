@@ -1,6 +1,4 @@
 
-# Saudi-Mood
-
 ![alt text](https://github.com/Tahani2015/5Vs/blob/master/8.ProjectDiagrams/SaudiMood%20Website.png "Logo Title Text 1")
 							
 
