@@ -33,7 +33,7 @@ Our dataset is considered as a lexicon or dictionary of different emotion terms 
 responses and collected their words in the dataset. We also used the Almaany Arabic lexicon to collect the Modern Standard Arabic words. The third resource was by reading different tweets on trending hashtags in Saudi Arabia to see which words and emojis people use to express their emotions towards specific events. In addition, for each written word in the dataset, we tried to extract all its possible derivatives. A sample terms from the created dataset is shown here:
 ![alt text](https://github.com/Tahani2015/5Vs/blob/master/8.ProjectDiagrams/Dataset.jpg "Logo Title Text 1")
 
-	* If you are interested in this dataset, you can download it from here:
+	* If you are interested in this dataset, you can download it from [here](https://github.com/Tahani2015/Saudi-Mood/blob/master/Emotions%20Dataset.xlsx)
 
 ## Copyright:
 #### Please cite the dataset using the following reference:
