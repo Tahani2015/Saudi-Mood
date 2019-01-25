@@ -31,11 +31,12 @@ Nowadays Twitter is considered as an expressive platform where people’s though
 ## Project Dataset:
 Our dataset is considered as a lexicon or dictionary of different emotion terms used in Saudi Arabia. It has been created manually and consisted of more than 4000 Arabic words taking into account the different Saudi dialects in addition to a set of expressive emojis. The dataset is divided into five categories, each of them represents an emotion and contains words that reflect that emotion. We categorized them into (happy, sad, angry, scared and surprised). The dataset was aggregated from multiple resources. The first resource was Crowdsourcing which is a combination of the words 'crowd' and 'outsourcing'. Crowdsourcing is the process of involving a ‘crowd’ or a group of people for a common goal such as problem solving and supported by social media and Web 2.0 . We created a form and distributed it via social media to Saudi users, asking them to express their emotions using their different dialects. We received 618
 responses and collected their words in the dataset. We also used the Almaany Arabic lexicon to collect the Modern Standard Arabic words. The third resource was by reading different tweets on trending hashtags in Saudi Arabia to see which words and emojis people use to express their emotions towards specific events. In addition, for each written word in the dataset, we tried to extract all its possible derivatives. A sample terms from the created dataset is shown here:
+![alt text](https://github.com/Tahani2015/5Vs/blob/master/8.ProjectDiagrams/Dataset.jpg "Logo Title Text 1")
 
 ## Copyright:
 If you are interested in this dataset, you can download it from here:
 
-Please cite the dataset using the following reference:
+#### Please cite the dataset using the following reference:
 	T. Almanie, A. Aldayel, G. Alkanhal, L. Alesmail, M. Almutlaq and R. Althunayan, "Saudi Mood: A Real-Time Informative Tool for Visualizing Emotions in Saudi Arabia Using Twitter", 21st Saudi Computer Society National Computer Conference (NCC), 2018. 
 
 ## Contact:
